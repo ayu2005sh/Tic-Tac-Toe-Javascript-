@@ -1,6 +1,3 @@
-Here's an impressive `README.md` file for your Tic Tac Toe game:  
-
----
 
 # 🎯 Tic Tac Toe - JavaScript Game  
 
